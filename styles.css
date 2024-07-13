@@ -23,6 +23,10 @@ body{
     margin: 5px;
 }
 
+.funnygrouppicture {
+    width: 100%;
+}
+
 .video{
     object-fit: cover;
     align-self: center;
