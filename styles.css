@@ -25,6 +25,7 @@ body{
 
 .funnygrouppicture {
     width: 100%;
+    border: solid black 1px;
 }
 
 .video{
