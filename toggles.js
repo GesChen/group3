@@ -10,6 +10,6 @@ videoElements.forEach(function(video) {
 
     // Attach the toggle functionality
     muteToggle.addEventListener("change", function() {
-        video.muted = muteToggle.checked;
+        video.muted = !muteToggle.checked;
     });
 });
